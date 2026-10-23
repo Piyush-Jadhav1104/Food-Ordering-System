@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\jadha\\OneDrive\\Desktop\\lib\\mysql-connector-j-26.7.0.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
